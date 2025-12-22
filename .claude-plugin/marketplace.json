@@ -1,0 +1,24 @@
+{
+  "name": "agora",
+  "owner": {
+    "name": "Alex"
+  },
+  "metadata": {
+    "description": "A curated collection of Claude Code plugins",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "herald",
+      "source": {
+        "source": "github",
+        "repo": "al3xjohnson/get-cubed"
+      },
+      "description": "Configurable notifications when Claude finishes - TTS, alert sounds, or silent",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["notifications", "alerts", "tts", "text-to-speech", "sounds"],
+      "category": "productivity"
+    }
+  ]
+}
