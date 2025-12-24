@@ -10,11 +10,16 @@
   "plugins": [
     {
       "name": "herald",
+      "description": "Configurable notifications when Claude finishes - TTS or alert sounds",
+      "author": {
+        "name": "Alex Johnson"
+      },
       "source": {
         "source": "github",
         "repo": "al3xjohnson/herald"
       },
-      "category": "productivity"
+      "category": "productivity",
+      "homepage": "https://github.com/al3xjohnson/herald"
     }
   ]
 }
