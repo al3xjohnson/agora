@@ -12,7 +12,7 @@
       "name": "herald",
       "source": {
         "source": "github",
-        "repo": "al3xjohnson/herald"
+        "repo": "al3xjohnson/herald/plugin"
       },
       "category": "productivity"
     }
